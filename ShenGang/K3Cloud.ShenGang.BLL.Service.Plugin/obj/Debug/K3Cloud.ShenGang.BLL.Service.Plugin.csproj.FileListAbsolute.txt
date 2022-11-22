@@ -1,0 +1,4 @@
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\K3Cloud.ShenGang.BLL.Service.Plugin.dll
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\K3Cloud.ShenGang.BLL.Service.Plugin.pdb
+D:\code\ShenGang\K3Cloud.ShenGang.BLL.Service.Plugin\obj\Debug\K3Cloud.ShenGang.BLL.Service.Plugin.dll
+D:\code\ShenGang\K3Cloud.ShenGang.BLL.Service.Plugin\obj\Debug\K3Cloud.ShenGang.BLL.Service.Plugin.pdb
